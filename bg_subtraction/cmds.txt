@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64:/storage/ducpm/cudnn7/lib64 python train.py --n-hiddens 3200 3200
